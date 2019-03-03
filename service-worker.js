@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.1db7614524542fbd5b0641d8dc4b8fee.js"
+  "precache-manifest.553474a9c8f033a55ae25ced355fcc6f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kiosk"});
